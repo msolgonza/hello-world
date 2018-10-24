@@ -1,2 +1,7 @@
 # hello-world
-My first GitHub project
+
+I am making README more personal.
+
+Enjoy,
+
+Sol
